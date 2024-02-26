@@ -9,7 +9,7 @@
 
 * Opera の場合
 
-  1. エクステンションファイルを [ダウンロード](https://github.com/akahuku/akahukuplus/raw/master/dist/akahukuplus.nex) します。
+  1. エクステンションファイルを [ダウンロード](https://github.com/SatoMasahiro2005/akahukuplus/raw/master/dist/akahukuplus.nex) します。
 
   2. Opera 上のエクステンション管理ページを開きます。
 
@@ -18,7 +18,7 @@
   インストールを指示します。
 
   * version 3.1.238 以降の赤福プラスは、Opera 12.x をサポートしなくなりました。
-  最終版のアーカイブ は [有効](https://github.com/akahuku/akahukuplus/blob/master/dist/akahukuplus.oex) です。
+  最終版のアーカイブ は [有効](https://github.com/SatoMasahiro2005/akahukuplus/blob/master/dist/akahukuplus.oex) です。
 
 ## 使い方
 

@@ -9,7 +9,7 @@
 		"gecko": {
 			"id": "jid1-ytdk6oePtVeu1A@jetpack",
 			"strict_min_version": "42.0",
-			"update_url": "https://github.com/akahuku/akahukuplus/raw/master/dist/firefox.json"
+			"update_url": "https://github.com/SatoMasahiro2005/akahukuplus/raw/master/dist/firefox.json"
 		}
 	},
 	"icons": {
@@ -81,5 +81,5 @@
 		"lib/*"
 	],
 	"homepage_url": "https://appsweets.net/akahukuplus/",
-	"update_url":"https://github.com/akahuku/akahukuplus/raw/master/dist/chrome.xml"
+	"update_url":"https://github.com/SatoMasahiro2005/akahukuplus/raw/master/dist/chrome.xml"
 }
