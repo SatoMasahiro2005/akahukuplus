@@ -426,10 +426,10 @@ twitter-widget + br {
 
 .topic-wrap .emoji,
 .reply-wrap .emoji {
-	margin-left:4px;
-	margin-right:4px;
-	vertical-align:-0.1em;
-	max-height:1.5em;
+	margin-left:0.1em;
+	margin-right:0.1em;
+	vertical-align:-0.2em;
+	max-height:1.2em;
 	filter: drop-shadow(0px 1px 1px #0008);
 }
 
