@@ -1,4 +1,4 @@
-[akahuku/akahukuplus](https://github.com/akahukuplus/akahukuplus)を一部改変したフォークです。  
+[akahuku/akahukuplus](https://github.com/akahuku/akahukuplus)を一部改変したフォークです。  
 以下は元のREADME.mdです
 
 赤福プラス
