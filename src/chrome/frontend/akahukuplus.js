@@ -3423,7 +3423,7 @@ function createPersistentStorage () {
 			name:'del リンククリックで直接 del を送信する'
 		},
 		osaka_conversion: {
-			type:'bool',
+			type:'false',
 			value:true,
 			name:'なりきり関西人'
 		}
