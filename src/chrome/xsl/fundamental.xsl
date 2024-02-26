@@ -2881,7 +2881,7 @@ div.catalog-popup span {
 </xsl:template>
 
 <xsl:template match="emoji">
-<img class="emoji" draggable="false" alt="{.}" src="https://twemoji.maxcdn.com/2/72x72/{@codepoints}.png"/>
+<img class="emoji" draggable="false" alt="{.}" src="https://twemoji.maxcdn.com/v/latest/72x72/{@codepoints}.png"/>
 </xsl:template>
 
 <xsl:template match="comment//mark">
